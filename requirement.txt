@@ -6,3 +6,4 @@ scikit-image
 sphinx-gallery
 scikit-learn
 graphviz
+sklearn
